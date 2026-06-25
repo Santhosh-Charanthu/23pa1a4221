@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "logging-middleware": "file:../logging-middleware"
+  }
+}
